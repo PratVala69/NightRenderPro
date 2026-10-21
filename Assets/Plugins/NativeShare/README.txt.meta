@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 008f9918bb19fa94b83c2210cf539039
+timeCreated: 1563308465
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112731
+  packageName: Native Share for Android & iOS
+  packageVersion: 1.4.7
+  assetPath: Assets/Plugins/NativeShare/README.txt
+  uploadId: 549961

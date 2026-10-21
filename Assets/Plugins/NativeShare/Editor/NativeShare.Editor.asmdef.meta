@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ed423a4021a0c248911f8b5b1277c91
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112731
+  packageName: Native Share for Android & iOS
+  packageVersion: 1.4.7
+  assetPath: Assets/Plugins/NativeShare/Editor/NativeShare.Editor.asmdef
+  uploadId: 549961

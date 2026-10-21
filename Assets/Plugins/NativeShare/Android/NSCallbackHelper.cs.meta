@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8b7cf25514ddb4f4c954e0b3a0bfe72d
+timeCreated: 1594464639
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112731
+  packageName: Native Share for Android & iOS
+  packageVersion: 1.4.7
+  assetPath: Assets/Plugins/NativeShare/Android/NSCallbackHelper.cs
+  uploadId: 549961

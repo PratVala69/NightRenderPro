@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4992675324215606311
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2869065192048028844, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.548
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_Name
+      value: Gutter
+      objectReference: {fileID: 0}
+    - target: {fileID: 7561148656352665749, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7561148656352665749, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05441028
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1335154326106437349}
+  m_SourcePrefab: {fileID: 100100000, guid: bea94dc8436f545ca8f56ef81e2d0eb3, type: 3}
+--- !u!1 &5298733522880004470 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bea94dc8436f545ca8f56ef81e2d0eb3,
+    type: 3}
+  m_PrefabInstance: {fileID: 4992675324215606311}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1335154326106437349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5298733522880004470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dba60a4988273412380eccce01a0ec7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  productData:
+    productName: Gutter
+    productUniqueName: 
+    size: 
+    color: 
+    imagePath: 
+    costPerUnit: 200 USD per feet
+    variation: 10

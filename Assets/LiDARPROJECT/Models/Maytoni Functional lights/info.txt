@@ -1,0 +1,12 @@
+Name: Maytoni_Functional_lights
+Version: 2017
+Units: Millimeters
+Dimension: 445.98 x 550.67 x 147.03
+Polys: 67 102
+XForm: Yes
+Box Trick: No
+Model Parts: 36
+Render: Corona
+Formats: 3Ds Max 2017, OBJ
+
+https://maytoni.ru/catalog/functional/
